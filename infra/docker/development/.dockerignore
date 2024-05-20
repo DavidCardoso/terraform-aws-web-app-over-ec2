@@ -1,0 +1,3 @@
+# insert here the files you wish to ignore inside the image during the build
+*/**/*.env*
+node_modules

@@ -1,0 +1,4 @@
+# Manage how search engines see the public site
+# If you want to improve SEO for example, comment these two lines.
+User-Agent: *
+Disallow: /
