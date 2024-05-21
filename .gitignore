@@ -1,5 +1,6 @@
 # Dotenv
-.env
+.env*
+!.env-example
 
 # OS X
 .DS_Store
